@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Christopher Verrell</h1>
+<h3 align="center">A passionate Mobile Developer and Front-End Engineer from Indonesia</h3>
 
 <!--
 **mienkosern/mienkosern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
